@@ -1,0 +1,13 @@
+.fixed-navbar{
+    position: fixed !important;
+    width: 100% !important;
+}
+
+.container-navbar {
+    max-width: 80rem !important;
+}
+
+.text-decoration-none {
+    text-decoration: none !important;
+    list-style: none !important;
+}
